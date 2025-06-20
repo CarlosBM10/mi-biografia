@@ -4,3 +4,8 @@
 **Edad:** 21  
 **Carrera:** Ingeniera Informática
 
+
+## Hobbies
+- Leer
+- Escuchar música
+- Jugar videojuegos
